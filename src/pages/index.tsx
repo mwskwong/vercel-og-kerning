@@ -3,7 +3,7 @@ export default function Home() {
     <div
       style={{
         fontFamily: "Rubik",
-        // fontWeight: 500,
+        fontWeight: 500,
         fontSize: 96
       }}
     >
